@@ -1,2 +1,2 @@
 # ActiveBox
-it's just a layout of an adaptive site
+it's just a layout of an adaptive site with using JQ
